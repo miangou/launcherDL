@@ -1,5 +1,5 @@
 ## HCML
-HMCL v2.7
+HMCL v3.3.176
 
 [Jar](https://miangou.lanzoux.com/iQCELjazxkh "Jar")
 
