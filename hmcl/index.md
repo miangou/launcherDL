@@ -1,4 +1,11 @@
 ## HCML
+HMCL v2.7
+
+[Jar](https://miangou.lanzoux.com/iQCELjazxkh "Jar")
+
+[Windows](https://miangou.lanzoux.com/ie11Ljazyve "Windows")
+
+<br>
 
 HMCL v3.3
 
